@@ -1,3 +1,4 @@
+#RouterOS 7.6 or before
 :local systemname [/system identity get name];
 #:local systemdate [/system clock get date];
 
